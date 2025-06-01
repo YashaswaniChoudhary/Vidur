@@ -35,6 +35,7 @@ Whether you're a student, job seeker, or working professional — Vidur ensures 
 | Personalized Nudges           | Smart reminders for consistency, upskilling, and engagement                 |
 | Career Path Guidance          | AI-curated advice based on user’s goals, interests, and trends              |
 
+---
 
 ## 🛠 Tech Stack
 
@@ -45,7 +46,9 @@ Whether you're a student, job seeker, or working professional — Vidur ensures 
  **Netlify / Vercel** – deployment  
  **Notion/Trello** – project planning  
  **RevenueCat / Sentry (optional)** – monetization or error tracking
-
+ 
+---
+ 
 ## Use Cases
 
 - Students building their profile  
@@ -54,12 +57,18 @@ Whether you're a student, job seeker, or working professional — Vidur ensures 
 - Creators sharing their growth publicly  
 - Anyone wanting **clarity** over chaos in their career
 
+---
+
 ## Built With Bolt
 
 This project is proudly **built on [Bolt.new](https://bolt.new)** and carries the official badge in the deployed version.
 
+---
+
 ## Demo & Submission
 
+
+---
 
 ## Acknowledgments
 
