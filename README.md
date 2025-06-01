@@ -49,7 +49,7 @@ Whether you're a student, job seeker, or working professional — Vidur ensures 
  
 ---
  
-## Use Cases
+## 🎯 Use Cases
 
 - Students building their profile  
 - Job seekers prepping for interviews  
@@ -59,13 +59,13 @@ Whether you're a student, job seeker, or working professional — Vidur ensures 
 
 ---
 
-## Built With Bolt
+## 🏷 Built With Bolt
 
 This project is proudly **built on [Bolt.new](https://bolt.new)** and carries the official badge in the deployed version.
 
 ---
 
-## Demo & Submission
+## 📹 Demo & Submission
 
 
 ---
