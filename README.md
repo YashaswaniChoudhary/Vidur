@@ -1,4 +1,4 @@
-# 🧠 Vidur
+# Vidur
 
 **Vidur** is a wisdom-driven, AI-powered LinkedIn achievement tracker and career growth assistant. Built during the [Bolt.new World's Largest Hackathon](https://bolt.new), Vidur empowers users to reflect, track, and evolve in their professional journey — just like Vidura of the Mahabharata guided kings with integrity and insight.
 
